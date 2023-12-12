@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **...**
 
-- 📫 How to reach me **brunothormaehlen@yahoo.com**
-
 - Bootcamp Project: **https://linktr.ee/avikan**
 
 <h3 align="left">Connect with me:</h3>
