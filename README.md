@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Bruno</h1>
+<h1 align="left">Hi 👋, I'm Bruno</h1>
+
+- 🌱 I’m currently learning **...**
+
 - 📫 How to reach me **brunothormaehlen@yahoo.com**
+
+- Bootcamp Project: **https://linktr.ee/avikan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
